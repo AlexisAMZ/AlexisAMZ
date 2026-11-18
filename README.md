@@ -5,6 +5,8 @@
 Développeur web et photographe freelance, entre **Lyon** et **Dubaï**.
 Je construis des sites sur-mesure et je photographie des événements, des voitures et des portraits.
 
+**Devis ou shooting :** [contact@alexisamz.com](mailto:contact@alexisamz.com)
+
 ## Ce que je fais
 
 - **Sites web sur-mesure** : vitrines et boutiques en Next.js, rapides, accessibles et bien référencés.
@@ -12,13 +14,11 @@ Je construis des sites sur-mesure et je photographie des événements, des voitu
 
 ## Projets
 
-| Projet | Ce que c'est | Site | Code |
-|---|---|---|---|
-| **StreamPulse** | Extension Twitch et Kick : alertes de live, points de chaîne, Drops | [streampulse.fr](https://www.streampulse.fr) | [Chrome](https://github.com/AlexisAMZ/streampulse-extension) · [Firefox](https://github.com/AlexisAMZ/streampulse-firefox) |
-| **StreamPulse Clips** | Application web StreamPulse Clips | [Voir le site](https://streampulse-clips-web.vercel.app) | Privé |
-| **Belka'Coiff** | Prise de rendez-vous pour un salon de coiffure à Lyon | [belkacoiff.fr](https://belkacoiff.fr) | Privé |
-| **DCZ Imports** | Site web | [Voir le site](https://dcrz-imports.vercel.app) | Privé |
-| **Insta Stalker** | Suivi des abonnés Instagram et des désabonnements, en lecture seule | [Voir le site](https://amztracker-alexisamz.vercel.app) | [Code](https://github.com/AlexisAMZ/insta-stalker) |
+- **StreamPulse** : extension Twitch et Kick, alertes de live, points de chaîne et Drops. [Site](https://www.streampulse.fr) · Code : [Chrome](https://github.com/AlexisAMZ/streampulse-extension), [Firefox](https://github.com/AlexisAMZ/streampulse-firefox)
+- **StreamPulse Clips** : application web. [Site](https://streampulse-clips-web.vercel.app)
+- **Belka'Coiff** : prise de rendez-vous pour un salon de coiffure à Lyon. [Site](https://belkacoiff.fr)
+- **DCZ Imports** : site web. [Site](https://dcrz-imports.vercel.app)
+- **Insta Stalker** : suivi des abonnés Instagram et des désabonnements, en lecture seule. [Site](https://amztracker-alexisamz.vercel.app) · [Code](https://github.com/AlexisAMZ/insta-stalker)
 
 ## Outils
 
