@@ -1,4 +1,4 @@
-<img src="banner.png" alt="Alexis AMZ — développeur web et photographe, Dubaï — Lyon" width="100%">
+<img src="banner.jpg" alt="Alexis AMZ, développeur web et photographe, Dubaï — Lyon" width="100%">
 
 # Alexis AMZ DA CRUZ
 
@@ -9,16 +9,24 @@ Je construis des sites sur-mesure et je photographie des événements, des voitu
 
 ## Ce que je fais
 
-- **Sites web sur-mesure** : vitrines et boutiques en Next.js, rapides, accessibles et bien référencés.
+- **Sites web sur-mesure** : vitrines, boutiques et outils de réservation en Next.js.
 - **Photographie** : événement, automobile et moto, portrait.
+
+<a href="https://alexisamz.com/photos">
+  <img src="photos/auto.jpg" alt="Mercedes blanche de nuit, rue de Lyon" width="32%">
+  <img src="photos/evenement.jpg" alt="Saut de motocross en salle lors d'un événement" width="32%">
+  <img src="photos/moto.jpg" alt="Deux motos sportives au bord de l'eau" width="32%">
+</a>
+
+Plus de photos sur [alexisamz.com/photos](https://alexisamz.com/photos).
 
 ## Projets
 
-- **StreamPulse** : extension Twitch et Kick, alertes de live, points de chaîne et Drops. [Site](https://www.streampulse.fr) · Code : [Chrome](https://github.com/AlexisAMZ/streampulse-extension), [Firefox](https://github.com/AlexisAMZ/streampulse-firefox)
-- **StreamPulse Clips** : application web. [Site](https://streampulse-clips-web.vercel.app)
-- **Belka'Coiff** : prise de rendez-vous pour un salon de coiffure à Lyon. [Site](https://belkacoiff.fr)
-- **DCZ Imports** : site web. [Site](https://dcrz-imports.vercel.app)
-- **Insta Stalker** : suivi des abonnés Instagram et des désabonnements, en lecture seule. [Site](https://amztracker-alexisamz.vercel.app) · [Code](https://github.com/AlexisAMZ/insta-stalker)
+- **[StreamPulse](https://www.streampulse.fr)** : extension navigateur, alertes Twitch, Kick et YouTube, points de chaîne et Drops récupérés automatiquement. Code : [Chrome](https://github.com/AlexisAMZ/streampulse-extension), [Firefox](https://github.com/AlexisAMZ/streampulse-firefox)
+- **[StreamPulse Clips](https://streampulse-clips-web.vercel.app)** : transforme des clips Twitch et Kick en vidéos 9:16 pour TikTok, Reels et Shorts, depuis le navigateur.
+- **[Belka'Coiff](https://belkacoiff.fr)** : réservation en ligne pour un barbier de Lyon 8e.
+- **[DCZ Imports](https://dcrz-imports.vercel.app)** : calcule le coût réel d'une voiture importée en France (TVA, malus CO₂, transport).
+- **Insta Stalker** : suivi des abonnés Instagram et des désabonnements, en lecture seule. [Code](https://github.com/AlexisAMZ/insta-stalker)
 
 ## Outils
 
