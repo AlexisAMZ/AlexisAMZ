@@ -1,6 +1,6 @@
 <img src="banner.png" alt="Alexis AMZ — développeur web et photographe, Dubaï — Lyon" width="100%">
 
-# Alexis AMZ Da Cruz
+# Alexis AMZ DA CRUZ
 
 Développeur web et photographe freelance, entre **Lyon** et **Dubaï**.
 Je construis des sites sur-mesure et je photographie des événements, des voitures et des portraits.
