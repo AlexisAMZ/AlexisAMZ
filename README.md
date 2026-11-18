@@ -3,6 +3,7 @@
 # Alexis AMZ DA CRUZ
 
 Développeur web et photographe freelance, entre **Lyon** et **Dubaï**.
+Je construis des sites sur-mesure et je photographie des événements, des voitures et des portraits.
 
 **Devis ou shooting :** [contact@alexisamz.com](mailto:contact@alexisamz.com)
 
@@ -11,18 +12,11 @@ Développeur web et photographe freelance, entre **Lyon** et **Dubaï**.
 - **Sites web sur-mesure** : vitrines, boutiques et outils de réservation en Next.js.
 - **Photographie** : événement, automobile et moto, portrait.
 
-<table>
-  <tr>
-    <td width="33%"><a href="https://alexisamz.com/photos"><img src="photos/portrait-pont.jpg" alt="Portrait en extérieur, assise sur un petit pont de pierre"></a></td>
-    <td width="33%"><a href="https://alexisamz.com/photos"><img src="photos/voiture.jpg" alt="Lamborghini Huracán STO bleue sur un front de mer"></a></td>
-    <td width="33%"><a href="https://alexisamz.com/photos"><img src="photos/evenement-foot.jpg" alt="Poignée de main lors d'un événement de football"></a></td>
-  </tr>
-  <tr align="center">
-    <td><sub>Portrait</sub></td>
-    <td><sub>Automobile</sub></td>
-    <td><sub>Événement</sub></td>
-  </tr>
-</table>
+<a href="https://alexisamz.com/photos">
+  <img src="photos/portrait-pont.jpg" alt="Portrait en extérieur, assise sur un petit pont de pierre" width="32%">
+  <img src="photos/voiture.jpg" alt="Lamborghini Huracán STO bleue sur un front de mer" width="32%">
+  <img src="photos/evenement-foot.jpg" alt="Poignée de main lors d'un événement de football" width="32%">
+</a>
 
 Plus de photos sur [alexisamz.com/photos](https://alexisamz.com/photos).
 
