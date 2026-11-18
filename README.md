@@ -42,4 +42,4 @@ Je construis des sites sur-mesure et je photographie des événements, des voitu
 - Site : [alexisamz.com](https://alexisamz.com)
 - E-mail : [contact@alexisamz.com](mailto:contact@alexisamz.com)
 - Instagram : [@alexisamz](https://instagram.com/alexisamz)
-- Photos : [Unsplash @alexisamz](https://unsplash.com/@alexisamz)
+- Photos : [alexisamz.com/photos](https://alexisamz.com/photos)
