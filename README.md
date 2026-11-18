@@ -13,9 +13,9 @@ Je construis des sites sur-mesure et je photographie des événements, des voitu
 - **Photographie** : événement, automobile et moto, portrait.
 
 <a href="https://alexisamz.com/photos">
-  <img src="photos/auto.jpg" alt="Mercedes blanche de nuit, rue de Lyon" width="32%">
-  <img src="photos/evenement.jpg" alt="Saut de motocross en salle lors d'un événement" width="32%">
-  <img src="photos/moto.jpg" alt="Deux motos sportives au bord de l'eau" width="32%">
+  <img src="photos/portrait.jpg" alt="Portrait en extérieur, assise sur un petit pont de pierre" width="32%">
+  <img src="photos/auto.jpg" alt="Lamborghini Huracán STO bleue sur un front de mer" width="32%">
+  <img src="photos/evenement.jpg" alt="Poignée de main lors d'un événement de football" width="32%">
 </a>
 
 Plus de photos sur [alexisamz.com/photos](https://alexisamz.com/photos).
